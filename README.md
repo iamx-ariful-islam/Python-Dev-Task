@@ -15,7 +15,7 @@ paraphrased using natural language processing and machine learning algorithms, t
 summary of the main ideas presented on the website. The summary will be presented in a
 concise and coherent manner.
 
-## Task Requirments
+## Task Requirements
 this project is developed using all new os, software and tools.
 
 * **Operating System :** Windows10/11, Kali Linux2022.4
