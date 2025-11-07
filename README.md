@@ -67,23 +67,17 @@ pip3 install xlsxwriter
 
 # one line command (method #2)
 pip3 install bs4 nltk scikit-learn gensim textblob xlsxwriter
-```
-### **or**
-```bash
-# install package using below command
+
+# or install package using below command
 sudo pip install bs4 nltk scikit-learn gensim textblob xlsxwriter
 ```
 
 ## Notes
 The `requirements.txt` file, lists of all the Python libraries that my "**_Python Dev Task_**" depends on and installs those packages from the file:
 
-```
+```bash
 pip install -r requirements.txt
-```
-
-### **or**
-
-```
+# or
 sudo pip install -r requirements.txt
 ```
 
@@ -169,5 +163,5 @@ The [MIT](https://choosealicense.com/licenses/mit/) License (MIT)
 
 ## Thank You for Visiting!
 
-> “Good design is about making things simple yet significant”  
+> “Good code is about making things powerful yet readable”  
 > — *Md. Ariful Islam*
